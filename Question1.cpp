@@ -29,7 +29,7 @@ int main()
 
     intMax = maxfunc(firstArr, 5);
     doubleMax = maxfunc(secondArr, 5);
-    charMax = maxfunc(thirdArr, 6);
+    charMax = maxfunc(thirdArr, 8);
 
     cout << "Max value of first array: " << intMax << "\n";
     cout << "Max value of second array: " << doubleMax << "\n";
